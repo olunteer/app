@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "490736617767",
+    "firebase_url": "https://olunteer.firebaseio.com",
+    "project_id": "olunteer",
+    "storage_bucket": "olunteer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490736617767:android:ce7efef86664ba30084102",
+        "android_client_info": {
+          "package_name": "app.olunteer.olunteer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490736617767-qfg3flirssccq7jis8fba6haf5jhdh9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.olunteer.olunteer",
+            "certificate_hash": "992cf47fcccfe3b993d6289a79ca1f6df0b781d5"
+          }
+        },
+        {
+          "client_id": "490736617767-c5cue2lu1014teltdfesfa1122r86i27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvUMr5IIUWCiLmYDKhRiZJmDkPxgSpKvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490736617767-c5cue2lu1014teltdfesfa1122r86i27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490736617767-g1f9km3na2540nl8ulkumujc1fl6ej9r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.olunteer.olunteer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
